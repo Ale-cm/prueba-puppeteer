@@ -1,6 +1,7 @@
 
 
 # prueba-puppeteer-amazon
+Scraping Web con Javascript y Puppeteer
 
  busqueda, screenshot, obtener datos
 
